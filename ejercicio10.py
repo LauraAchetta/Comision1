@@ -1,4 +1,4 @@
-numero = input("Ingrese un número de tres cifras: ")
+numero = input("Ingrese un número de 3 cifras: ")
 
 # Validar si no ingresó nada
 if numero == "":
